@@ -4,5 +4,5 @@ preprocess:
 
 train:
   n_estimators: 200
-  max_depth: 20
+  max_depth: 15
   random_state: 42
